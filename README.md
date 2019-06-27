@@ -14,7 +14,7 @@
 
 运用一个机器学习解决问题的一般分四个流程：数据预处理(Preprocessing)、模型学习(Learning)、模型评估(Evaluation)、新样本预测(Prediction)，如下图所示：
 
-![机器学习](F:\Codeworks\微信公众号\机器学习和深度学习\机器学习.jpg)
+![机器学习](https://github.com/edj19/MachineLearning/blob/master/figures/fig_ml2.jpg)
 
 对于利用机器学习算法解决相关问题，可以参考我的板块kaggle learn，自己整理学习了一些常见类型的处理方式，包括数据预处理和模型选择等技巧。
 
